@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-vosswa.pulaucuan.sbs/sitemap.xml
